@@ -1,4 +1,4 @@
-# 📊 HR Attrition Case Study & Interactive Dashboard
+# 📊 HR-Attrition-Dashboard
 
 This project is a comprehensive **Human Resources (HR) data analysis and Business Intelligence (BI) dashboard** developed in Excel. The core objective is to identify and analyze the critical factors driving **employee attrition** (turnover) within the organization.
 
