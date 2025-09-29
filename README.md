@@ -23,7 +23,7 @@ This project utilizes advanced Excel features to deliver a robust and interactiv
 
 * **Raw Data Source:** The project begins with a raw dataset containing employee records with various attributes (Salary, Joining Date, Performance, etc.).
 * **Data Cleaning & Transformation:** Utilized Excel techniques (formulas, filtering, new columns) to clean the data, handle dates, and categorize attributes (e.g., creating the 'Age Group' field).
-* **Pivot Tables & Slicers:** The entire analysis is powered by multiple **Pivot Tables** used to cross-reference data and quickly aggregate metrics (as shown in the `Pivot table analysis.csv` file). **Slicers** provide the interactive filtering capability for the end-user.
+* **Pivot Tables & Slicers:** The entire analysis is powered by multiple **Pivot Tables** used to cross-reference data and quickly aggregate metrics. **Slicers** provide the interactive filtering capability for the end-user.
 * **Data Visualization:** Custom charts (bar charts, gauges, trend lines) are used to visualize the KPIs on a single, easy-to-read dashboard sheet.
 
 ---
